@@ -1,0 +1,15 @@
+C:\repo\Homework\task06\bin\Debug\net6.0\task06.exe
+C:\repo\Homework\task06\bin\Debug\net6.0\task06.deps.json
+C:\repo\Homework\task06\bin\Debug\net6.0\task06.runtimeconfig.json
+C:\repo\Homework\task06\bin\Debug\net6.0\task06.dll
+C:\repo\Homework\task06\bin\Debug\net6.0\task06.pdb
+C:\repo\Homework\task06\obj\Debug\net6.0\task06.csproj.AssemblyReference.cache
+C:\repo\Homework\task06\obj\Debug\net6.0\task06.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\Homework\task06\obj\Debug\net6.0\task06.AssemblyInfoInputs.cache
+C:\repo\Homework\task06\obj\Debug\net6.0\task06.AssemblyInfo.cs
+C:\repo\Homework\task06\obj\Debug\net6.0\task06.csproj.CoreCompileInputs.cache
+C:\repo\Homework\task06\obj\Debug\net6.0\task06.dll
+C:\repo\Homework\task06\obj\Debug\net6.0\refint\task06.dll
+C:\repo\Homework\task06\obj\Debug\net6.0\task06.pdb
+C:\repo\Homework\task06\obj\Debug\net6.0\task06.genruntimeconfig.cache
+C:\repo\Homework\task06\obj\Debug\net6.0\ref\task06.dll
