@@ -1,0 +1,15 @@
+C:\repo\Homework\task04\bin\Debug\net6.0\task04.exe
+C:\repo\Homework\task04\bin\Debug\net6.0\task04.deps.json
+C:\repo\Homework\task04\bin\Debug\net6.0\task04.runtimeconfig.json
+C:\repo\Homework\task04\bin\Debug\net6.0\task04.dll
+C:\repo\Homework\task04\bin\Debug\net6.0\task04.pdb
+C:\repo\Homework\task04\obj\Debug\net6.0\task04.csproj.AssemblyReference.cache
+C:\repo\Homework\task04\obj\Debug\net6.0\task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\Homework\task04\obj\Debug\net6.0\task04.AssemblyInfoInputs.cache
+C:\repo\Homework\task04\obj\Debug\net6.0\task04.AssemblyInfo.cs
+C:\repo\Homework\task04\obj\Debug\net6.0\task04.csproj.CoreCompileInputs.cache
+C:\repo\Homework\task04\obj\Debug\net6.0\task04.dll
+C:\repo\Homework\task04\obj\Debug\net6.0\refint\task04.dll
+C:\repo\Homework\task04\obj\Debug\net6.0\task04.pdb
+C:\repo\Homework\task04\obj\Debug\net6.0\task04.genruntimeconfig.cache
+C:\repo\Homework\task04\obj\Debug\net6.0\ref\task04.dll
