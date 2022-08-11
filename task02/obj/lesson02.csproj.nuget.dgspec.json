@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repo\\Homework\\lesson02\\lesson02.csproj": {}
+    "C:\\repo\\Homework\\task02\\lesson02.csproj": {}
   },
   "projects": {
-    "C:\\repo\\Homework\\lesson02\\lesson02.csproj": {
+    "C:\\repo\\Homework\\task02\\lesson02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repo\\Homework\\lesson02\\lesson02.csproj",
+        "projectUniqueName": "C:\\repo\\Homework\\task02\\lesson02.csproj",
         "projectName": "lesson02",
-        "projectPath": "C:\\repo\\Homework\\lesson02\\lesson02.csproj",
+        "projectPath": "C:\\repo\\Homework\\task02\\lesson02.csproj",
         "packagesPath": "C:\\Users\\dudin\\.nuget\\packages\\",
-        "outputPath": "C:\\repo\\Homework\\lesson02\\obj\\",
+        "outputPath": "C:\\repo\\Homework\\task02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dudin\\AppData\\Roaming\\NuGet\\NuGet.Config"
